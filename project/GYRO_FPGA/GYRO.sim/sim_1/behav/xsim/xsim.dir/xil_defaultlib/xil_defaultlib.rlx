@@ -1,0 +1,14 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Clk_Division.v,1573555848,verilog,,C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Driver_Gyro.v,,Clk_Division,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Driver_Gyro.v,1573555832,verilog,,C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Driver_IIC.v,,Driver_Gyro,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Driver_IIC.v,1573556054,verilog,,C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Gyro2ram.v,,Driver_IIC,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Gyro2ram.v,1584401543,verilog,,C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/qspi_slave.v,,Gyro2ram,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Gyro_Demo.v,1595682830,verilog,,,,Gyro_Demo,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/qspi_slave.v,1584318542,verilog,,C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Gyro_Demo.v,,qspi_slave,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/fpga shiyan/GYRO/GYRO.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/15240/Desktop/fpga shiyan/GYRO/GYRO.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1596177805,verilog,,C:/Users/15240/Desktop/fpga shiyan/GYRO/GYRO.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,blk_mem_gen_0,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/fpga shiyan/GYRO/GYRO.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1595914841,verilog,,C:/Users/15240/Desktop/NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Clk_Division.v,,clk_wiz_0,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/15240/Desktop/fpga shiyan/GYRO/GYRO.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1595914841,verilog,,C:/Users/15240/Desktop/fpga shiyan/GYRO/GYRO.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../GYRO.srcs/sources_1/ip/clk_wiz_0,,,,,

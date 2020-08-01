@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../GYRO.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../GYRO.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../GYRO.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../GYRO.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+"../../../../../../NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Clk_Division.v" \
+"../../../../../../NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Driver_Gyro.v" \
+"../../../../../../NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Driver_IIC.v" \
+"../../../../../../NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Gyro2ram.v" \
+"../../../../../../NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/qspi_slave.v" \
+"../../../../../../NEW DEMO/SEA-master/Demos/2.IoT/Gyro2AWSloT/FPGA_Project/Gyro_Demo.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
